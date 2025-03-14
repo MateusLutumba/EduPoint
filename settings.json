@@ -1,0 +1,8 @@
+{
+    "php.validate.executablePath": "",
+    "window.zoomLevel": -1,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Winter is Coming (Dark Black)",
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never"
+}
